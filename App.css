@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.home, .interactive-lessons-page, .support-page, .math-page, .science-page {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #ff6347;
+}
+
+h2 {
+  color: #4682b4;
+}
+
+p {
+  color: #333;
+}
+
+.interactive-lessons, .weekly-challenges {
+  margin: 20px 0;
+}
